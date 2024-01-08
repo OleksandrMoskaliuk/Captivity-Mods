@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CptOverpowerConfigMod", "CptOverpowerConfigMod\CptOverpowerConfigMod.csproj", "{16A35008-49F2-48C9-B4B9-0D77BBBB0410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A35008-49F2-48C9-B4B9-0D77BBBB0410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A35008-49F2-48C9-B4B9-0D77BBBB0410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A35008-49F2-48C9-B4B9-0D77BBBB0410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A35008-49F2-48C9-B4B9-0D77BBBB0410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9D5850-48B0-465D-A11C-85585B6BD9B3}
+	EndGlobalSection
+EndGlobal
